@@ -15,6 +15,16 @@ public class VarMap {
     public static String onlineOutput = "Online";
 
 
+    //Role IDs
+    public static String newb = "New Programmers";
+    public static String modPrg = "Moderate Programmers";
+    public static String prgWizard = "Programming Wizard";
+
+    /*
+     * Actually have no clue if the below section will actually be needed for anything,
+     * but I think we can keep it here for now.
+     */
+
     //Rank Values
     public static int progWizard = 4;
     public static int progMod = 3;
