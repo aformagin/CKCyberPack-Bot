@@ -18,7 +18,7 @@ public class VarMap {
     //Role IDs
     public static String newb = "New Programmers";
     public static String modPrg = "Moderate Programmers";
-    public static String prgWizard = "Programming Wizard";
+    public static String prgWizard = "Programming Wizards";
 
     /*
      * Actually have no clue if the below section will actually be needed for anything,
