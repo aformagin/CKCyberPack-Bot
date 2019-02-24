@@ -1,15 +1,17 @@
 package main;
 
+import static main.TokenReader.read;
+
 /*
  * This class is used as a variable map, everything important will be declared here
- * and then used elsewhere throughout the code. This will also not be add to the
- * GIT Repo due to some of the security vulnerabilities when using AUTH Tokens
+ * and then used elsewhere throughout the code.
  *
  */
 public class VarMap {
 
     //Read token from the token data file instead of using this.
-    static String token = "";
+    static String token = read();
+
 
     //Outputted Strings
     public static String onlineOutput = "Online";
