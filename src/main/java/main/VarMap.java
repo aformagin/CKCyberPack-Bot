@@ -22,14 +22,4 @@ public class VarMap {
     public static String modPrg = "Moderate Programmers";
     public static String prgWizard = "Programming Wizards";
 
-    /*
-     * Actually have no clue if the below section will actually be needed for anything,
-     * but I think we can keep it here for now.
-     */
-
-    //Rank Values
-    public static int progWizard = 4;
-    public static int progMod = 3;
-    public static int progNewb = 2;
-    public static int alum = 1;
 }
